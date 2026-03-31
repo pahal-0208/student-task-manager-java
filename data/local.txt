@@ -1,0 +1,2 @@
+1. Complete Java Project, false
+2. Upload to Github, true
